@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/buketerbil?tab=repositories](https://github.com/buketerbil?tab=repositories)
 
-- 📫 How to reach me **message me on LinkedIn**
+- 📫 How to reach out --> **message me on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
