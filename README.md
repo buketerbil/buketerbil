@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buket</h1>
-<h3 align="center">A Data Science & Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buketerbil&label=Profile%20views&color=0e75b6&style=flat" alt="buketerbil" /> </p>
-
-- 🔭 I hold a **Master of Science degree in Neuroscience & Translational Medicine**
 
 - 🌱 I’m currently learning more about **Natural Language Processing & R**
 
