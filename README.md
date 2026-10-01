@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, I'm Buket</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buketerbil&label=Profile%20views&color=0e75b6&style=flat" alt="buketerbil" /> </p>
-
-- 🌱 I’m currently learning more about **Natural Language Processing & R**
-
-- 👯 The most fun project I worked on was [Facebook Marketplace System Optimisation](https://github.com/buketerbil/Facebook-Marketplace-Recommendation-RS)
-
-- 👨‍💻 All of my projects are available at [https://github.com/buketerbil?tab=repositories](https://github.com/buketerbil?tab=repositories)
-
-- 📫 How to reach out --> **message me on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
